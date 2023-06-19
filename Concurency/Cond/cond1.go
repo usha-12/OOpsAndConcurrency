@@ -21,7 +21,6 @@ func main() {
 
 		}
 		fmt.Println("Goroutine 1: Ready signal received")
-
 	}()
 
 	go func() {
